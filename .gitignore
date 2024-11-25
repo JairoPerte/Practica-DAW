@@ -1,0 +1,8 @@
+# Esto es para ignorar un archivo específico
+secret.txt
+
+# Ignorar extensiones de archivo
+*.log
+
+# Ignorar una carpeta (por ejemplo si es de caché y tal)
+node_modules/
